@@ -3,7 +3,7 @@ Content plan and progress state for youtube channel
 
 # Golang с нуля и без хуйни
 
-1. Install;
+1. [Install]();
 2. Build and run;
 3. Hello world;
 4. Type;
