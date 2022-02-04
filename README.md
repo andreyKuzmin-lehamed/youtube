@@ -1,2 +1,35 @@
 # youtube
 Content plan and progress state for youtube channel
+
+# Golang с нуля и без хуйни
+
+1. Install;
+2. Build and run;
+3. Hello world;
+4. Type;
+5. Variable and constant;
+6. Operator;
+7. if, else, else if;
+8. Cycle for;
+9. Function;
+10. Array and slice;
+11. Pointer;
+12. Struct;
+13. Methods;
+14. Interface;
+15. Goroutine;
+16. Channel;
+17. Select;
+18. Buffer;
+19. Mutex;
+20. Defer;
+21. Error;
+22. Panic;
+23. Recover;
+24. Packages;
+25. Go dependency management tools;
+27. Versions;
+26. Semantic versioning;
+28. Script;
+29. Repository;
+30. Basic SQL syntax;
