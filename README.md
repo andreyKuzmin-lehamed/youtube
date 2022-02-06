@@ -1,7 +1,7 @@
 # youtube
 Content plan and progress state for youtube channel
 
-# Golang - понятно и по делу
+# Golang - просто, о сложном
 
 2. Как установить golang и запустить программу? (build, run);
       - Базовое взаимодействие с VSCode;
