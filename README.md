@@ -1,10 +1,17 @@
 # youtube
 Content plan and progress state for youtube channel
 
-# Golang с нуля и понятно
+# Golang - понятно и по делу
 
-1. Install;
-2. Build and run;
+2. Как установить golang и запустить программу? (build, run);
+  - Базовое взаимодействие с VSCode;
+  - Установка golang;
+  - Создание базовой программы;
+  - Компиляция программы;
+  - Запуск скомпилированной программы;
+  - Изменения в скомпилированной программе;
+  - Запуск не скомпилированной программы;
+
 3. Type;
 4. Variable and constant;
 5. Operator;
